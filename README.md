@@ -4,6 +4,8 @@
 
 ## Issues and Pull requests
 
+`#2` Create Readme
+
 ## Components and suplies
 
 * `1` Arduino Uno Rev3
