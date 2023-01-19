@@ -10,3 +10,7 @@
 * `1` Breadboard 400 points
 * `3` Male Jumper Wires
 * `1` Infrared receiver VS1838B
+
+## Links
+
+[Source Code](https://github.com/arduino-core/IRRemote)
